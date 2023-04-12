@@ -6,7 +6,7 @@
 2. Create a cloudinary account to get an API key and secret code.
 
 ```
-git clone https://github.com/Aryan-1032/hackathon-visionQuest.git
+git clone https://github.com/Aryan-1032/Yelpcamp.git
 cd yelpcamp
 npm install
 ```
